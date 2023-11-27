@@ -1,0 +1,9 @@
+C:\Users\Дима\source\repos\Лабораторна робота №3\Завдання 2\bin\Debug\Завдання 2.exe.config
+C:\Users\Дима\source\repos\Лабораторна робота №3\Завдання 2\bin\Debug\Завдання 2.exe
+C:\Users\Дима\source\repos\Лабораторна робота №3\Завдання 2\bin\Debug\Завдання 2.pdb
+C:\Users\Дима\source\repos\Лабораторна робота №3\Завдання 2\obj\Debug\Завдання 2.csproj.AssemblyReference.cache
+C:\Users\Дима\source\repos\Лабораторна робота №3\Завдання 2\obj\Debug\Завдання_2.Properties.Resources.resources
+C:\Users\Дима\source\repos\Лабораторна робота №3\Завдання 2\obj\Debug\Завдання 2.csproj.GenerateResource.cache
+C:\Users\Дима\source\repos\Лабораторна робота №3\Завдання 2\obj\Debug\Завдання 2.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\Лабораторна робота №3\Завдання 2\obj\Debug\Завдання 2.exe
+C:\Users\Дима\source\repos\Лабораторна робота №3\Завдання 2\obj\Debug\Завдання 2.pdb

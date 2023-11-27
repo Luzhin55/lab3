@@ -1,0 +1,9 @@
+C:\Users\Дима\source\repos\Лабораторна Робота №2\Завдання 4\bin\Debug\Завдання 4.exe.config
+C:\Users\Дима\source\repos\Лабораторна Робота №2\Завдання 4\bin\Debug\Завдання 4.exe
+C:\Users\Дима\source\repos\Лабораторна Робота №2\Завдання 4\bin\Debug\Завдання 4.pdb
+C:\Users\Дима\source\repos\Лабораторна Робота №2\Завдання 4\obj\Debug\Завдання 4.csproj.AssemblyReference.cache
+C:\Users\Дима\source\repos\Лабораторна Робота №2\Завдання 4\obj\Debug\Завдання_4.Properties.Resources.resources
+C:\Users\Дима\source\repos\Лабораторна Робота №2\Завдання 4\obj\Debug\Завдання 4.csproj.GenerateResource.cache
+C:\Users\Дима\source\repos\Лабораторна Робота №2\Завдання 4\obj\Debug\Завдання 4.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\Лабораторна Робота №2\Завдання 4\obj\Debug\Завдання 4.exe
+C:\Users\Дима\source\repos\Лабораторна Робота №2\Завдання 4\obj\Debug\Завдання 4.pdb

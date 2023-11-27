@@ -1,0 +1,9 @@
+C:\Users\Дима\source\repos\Лабораторна робота №3\Лабораторна робота №3\bin\Debug\Лабораторна робота №3.exe.config
+C:\Users\Дима\source\repos\Лабораторна робота №3\Лабораторна робота №3\bin\Debug\Лабораторна робота №3.exe
+C:\Users\Дима\source\repos\Лабораторна робота №3\Лабораторна робота №3\bin\Debug\Лабораторна робота №3.pdb
+C:\Users\Дима\source\repos\Лабораторна робота №3\Лабораторна робота №3\obj\Debug\Лабораторна робота №3.csproj.AssemblyReference.cache
+C:\Users\Дима\source\repos\Лабораторна робота №3\Лабораторна робота №3\obj\Debug\Лабораторна_робота__3.Properties.Resources.resources
+C:\Users\Дима\source\repos\Лабораторна робота №3\Лабораторна робота №3\obj\Debug\Лабораторна робота №3.csproj.GenerateResource.cache
+C:\Users\Дима\source\repos\Лабораторна робота №3\Лабораторна робота №3\obj\Debug\Лабораторна робота №3.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\Лабораторна робота №3\Лабораторна робота №3\obj\Debug\Лабораторна робота №3.exe
+C:\Users\Дима\source\repos\Лабораторна робота №3\Лабораторна робота №3\obj\Debug\Лабораторна робота №3.pdb
